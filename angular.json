@@ -42,7 +42,7 @@
           "options": {
             "outputPath": "dist/animations-defer",
             "index": "src/my-index.html",
-            "browser": "src/main.ts",
+            "browser": "src/my-main.ts",
             "polyfills": [
               "zone.js"
             ],
